@@ -10,6 +10,17 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Push simple notificaion"
+        android:text="Push simple notification"
         android:id="@+id/simpleNotification"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Push Notification with BigTextStyle"
+        android:id="@+id/notificationWithBigTextStyle"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Push Notification with BigPictureStyle"
+        android:id="@+id/notificationWithBigPictureStyle"/>
 </LinearLayout>
